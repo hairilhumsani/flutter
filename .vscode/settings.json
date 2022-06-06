@@ -1,0 +1,6 @@
+{
+    "dart.hotReloadOnSave": "always",
+    "dart.flutterCreateAndroidLanguage": "java",
+    "dart.flutterHotReloadOnSave": "always",
+    "dart.showInspectorNotificationsForWidgetErrors": true
+}
